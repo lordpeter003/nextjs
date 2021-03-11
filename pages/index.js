@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Mingzhe Huang</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon_little_man.ico" />
       </Head>
 
       <main className={styles.main}>
